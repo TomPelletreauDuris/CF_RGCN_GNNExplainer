@@ -1,0 +1,6 @@
+data/
+data/R-model_2layer/
+data/R-model_2layer/R-full_adjacency_matrix.pt
+data/cf_explanations_citeseer.pickle
+data/cf_explanations_test_full_final.pickle
+results/
