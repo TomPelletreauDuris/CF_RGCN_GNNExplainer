@@ -52,7 +52,8 @@ Our model achieves the following performance for the tree dataset:
 | Model name         | Dataset        | Fidelity       |  Size |    Sparsity   | Accuracy    |
 | ------------------ |---------------- | -------------- | -------------- | -------------- |   -------------- |
 | CF-GNNExplainer   |     Tree-Cycles  |      0.206       |      2.16           |       0.894        |      0.956       |
-| CF-GNNExplainer   |     Citeseer  |      0.206       |      2.16           |       0.894        |      0.956       |
+| CF-GNNExplainer   |     Citeseer  |      0.3       |      1.5           |       0.79        |      nan       |
+| CF-RGNNExplainer   |     AIFB  |      nan       |      nan           |       nan        |      nan       |
 
 
 
